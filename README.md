@@ -214,9 +214,9 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 ### Statistiques GitHub
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=fr&title_color=7F77DD&text_color=c9d1d9&icon_color=1D9E75&bg_color=161b22&border_radius=12&custom_title=Statistiques%20GitHub" alt="Statistiques GitHub" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F77DD&text_color=c9d1d9&icon_color=1D9E75&bg_color=161b22&border_radius=12" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=fr&title_color=7F77DD&text_color=c9d1d9&bg_color=161b22&border_radius=12&custom_title=Langages%20principaux&exclude_repo=RASOLONDRAIBE360" alt="Langages Principaux" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=7F77DD&text_color=c9d1d9&bg_color=161b22&border_radius=12" alt="Top Langs" />
 </div>
 
 <br/>
