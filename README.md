@@ -19,115 +19,188 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-### 🛠️ Boîte à outils & Technologies
+## 🛠️ Compétences techniques
 
-<details open>
-<summary><strong>💻 Développement Web & Logiciel</strong> (Cliquez pour réduire)</summary>
+<details>
+<summary><b>🌐 Développement Web</b></summary>
 <br>
 
-| Composant | Technologies Maîtrisées |
-| :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit —%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white) |
-| **Backend** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
-| **Bases de Données** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-4F5D95?style=for-the-badge&logo=phpmyadmin&logoColor=white) |
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Base de données**
+
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </details>
 
 <details>
-<summary><strong>📱 Développement Mobile</strong> (Cliquez pour développer)</summary>
+<summary><b>📱 Développement Mobile</b></summary>
 <br>
 
-* **Frontend :** ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-* **Backend :** ![Firebase](https://img.shields.io/badge/firebase-%23ffca28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+**Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
 </details>
 
 <details>
-<summary><strong>🔌 Internet des Objets (IoT) & Robotique</strong> (Cliquez pour développer)</summary>
+<summary><b>🔌 Internet des Objets (IoT)</b></summary>
 <br>
 
-* **Langage & Environnement :** ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-%2300979D.svg?style=for-the-badge&logo=arduino&logoColor=white)
-* **Matériel :** Raspberry Pi, ESP32, Arduino MEGA, Arduino UNO, Puces Multiplexeurs
-* **Frameworks de Robotique :** ![ROS 2](https://img.shields.io/badge/ros2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white) GoPiGo
+**Matériel & Outils**
+
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-003366?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino MEGA](https://img.shields.io/badge/Arduino_MEGA-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino UNO](https://img.shields.io/badge/Arduino_UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Multiplexeur](https://img.shields.io/badge/Multiplexeur-555555?style=for-the-badge&logoColor=white)
+
+**Langage**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
 </details>
 
-<details open>
-<summary><strong>🏢 Mission Actuelle : Écosystème ERP Odoo</strong> (Cliquez pour réduire)</summary>
+<details>
+<summary><b>🤖 Robotique</b></summary>
 <br>
 
-Dans le cadre de mon stage de fin d'études, j'interviens de manière ciblée sur l'intégration logicielle d'entreprise :
-* **Backend & Logique Métier :** ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-* **Frontend & Architecture des Vues :** `QWeb (XML)`
-* **Stockage & Modélisation ORM :** ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![GoPiGo](https://img.shields.io/badge/GoPiGo-F7931E?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🏢 Mission actuelle — Stage ERP</b></summary>
+<br>
+
+**Écosystème**
+
+![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+**Frontend**
+
+![QWeb](https://img.shields.io/badge/QWeb_(XML)-E44D26?style=for-the-badge&logo=xml&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Base de données**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
 </details>
 
 ---
 
-### 🚀 Projets Vedettes (Interactif)
-
-*Sélectionnez un projet pour afficher sa description technique et ses objectifs.*
+## 🚀 Projets vedettes
 
 <details>
-<summary><strong>🌊 Système Intelligent de Surveillance d'Inondation & Filtrage</strong></summary>
-<p>
+<summary><b>🌱 UrbanCultive — Système IoT de gestion de parcelles agricoles</b></summary>
+<br>
 
-* **Description :** Système autonome de détection préventive et de gestion des eaux de crue.
-* **Fonctionnalités :** Activation automatique des pompes d'évacuation lors d'un seuil critique, stockage dans un réservoir dédié, et acheminement vers un circuit de filtrage physique pour une réutilisation domestique sécurisée par la famille.
-* **Technologies :** Microcontrôleurs, capteurs de niveau d'eau, programmation en C.
-</p>
+> Système IoT intelligent pour surveiller et piloter des parcelles agricoles urbaines à distance.
+
+- 📡 Capteurs : DHT11, BH1750, Raindrop YL-83
+- 🔧 Matériel : Arduino MEGA, ESP32
+- 💻 Stack : Flask, Streamlit, MQTT, WebSocket, Telegram Bot
+- 🔐 Auth : JWT + Cookies
+
+[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+
 </details>
 
 <details>
-<summary><strong>🌱 Automatisation de Parcelle Urbaine & Gestion Agricole</strong></summary>
-<p>
+<summary><b>🌊 Système de surveillance des inondations & filtrage d'eau</b></summary>
+<br>
 
-* **Description :** Plateforme de suivi environnemental et d'arrosage automatisé pour l'agriculture urbaine.
-* **Fonctionnalités :** Collecte des données hydriques du sol, traitement des contraintes en base de données, et simulation des cycles d'irrigation à l'aide de composants LED physiques.
-* **Technologies :** Streamlit (interface), Python, MySQL (phpMyAdmin), ESP32 / Arduino.
-</p>
+> Système automatisé capable de détecter, évacuer, filtrer et stocker l'eau pour une réutilisation domestique.
+
+- 📡 Capteurs de niveau d'eau
+- 🔧 Matériel : Arduino, Raspberry Pi
+- ⚙️ Automatisation complète via scripts embarqués
+
+[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+
 </details>
 
 <details>
-<summary><strong>🤖 Robotique Mobile Intelligente (GoPiGo & ROS 2)</strong></summary>
-<p>
+<summary><b>🤖 Robotique — GoPiGo & ROS 2</b></summary>
+<br>
 
-* **Description :** Développement de nœuds de navigation et de traitement de tâches pour un robot mobile.
-* **Fonctionnalités :** Communication inter-nœuds, traitement d'images léger pour la détection spatiale d'objets, et exécution de scripts de mission ordonnés.
-* **Technologies :** ROS 2, Python, OpenCV, plateforme matérielle GoPiGo.
-</p>
+> Développement et pilotage d'un robot autonome avec ROS 2 et GoPiGo.
+
+- 🤖 Plateforme : GoPiGo
+- 🧠 Framework : ROS 2
+- 🐍 Langage : Python
+
+[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+
 </details>
 
 <details>
-<summary><strong>⚓ Extension et Customisation d'Odoo ERP (tinoboat_extension)</strong></summary>
-<p>
+<summary><b>🏢 Extensions Odoo ERP — Stage</b></summary>
+<br>
 
-* **Description :** Module personnalisé de gestion de processus de réservation et de suivi client.
-* **Fonctionnalités :** Génération d'identifiants uniques alphanumériques cryptographiques de 8 caractères, déclencheurs (triggers) dynamiques pour la validation d'étapes métiers, et routage de requêtes HTTP pour l'impression de justificatifs.
-* **Technologies :** Odoo ORM, Python, QWeb XML, PostgreSQL.
-</p>
+> Développement et personnalisation de modules ERP sur l'écosystème Odoo.
+
+- 🖥️ Frontend : QWeb (XML)
+- 🐍 Backend : Python
+- 🗄️ BDD : PostgreSQL
+
+[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+
 </details>
 
 ---
 
-### 📊 Statistiques de Contribution
+## 📊 Statistiques GitHub
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_REEL&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub de Stevy" height="190px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_REEL&layout=compact&theme=tokyonight&hide_border=false" alt="Langages les plus utilisés" height="190px" />
-      </td>
-    </tr>
-  </table>
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RASOLONDRAIBE360&theme=tokyonight&hide_border=true)
+
 </div>
 
 ---
 
-### ✉️ Me contacter
+## 📬 Me contacter
 
-* **LinkedIn :** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TON_PROFIL)
-* **Email Professionnel :** [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-RASOLONDRAIBE360-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stevy_Bryan_Philippe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevybryanrasolondraibe@gmail.com)
+
+</div>
+
+---
 
 <div align="center">
   <sub>Profil mis à jour dynamiquement • Conçu avec soin pour refléter des solutions logicielles ancrées dans le monde réel.</sub>
