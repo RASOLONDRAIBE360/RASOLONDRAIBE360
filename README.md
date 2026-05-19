@@ -16,10 +16,6 @@
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-58A6FF?style=flat-square&labelColor=0D1117" alt="Open to Opportunities"/>
 </div>
 
-<p align="center" style="color:#8B949E; letter-spacing:1.5px; font-size:14px;">
-  Développeur Logiciel · Passionné d'IoT, Robotique &amp; Systèmes Connectés
-</p>
-
 ---
 
 ### 📖 À propos
