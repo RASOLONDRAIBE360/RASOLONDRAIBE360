@@ -105,9 +105,7 @@
   <rect x="24" y="18" width="110" height="22" rx="4" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
   <text x="34" y="33" font-family="monospace" font-size="11" fill="#58A6FF" opacity="0.9">&lt;developer/&gt;</text>
 
-  <!-- Small tag top-right -->
-  <rect x="1066" y="18" width="110" height="22" rx="4" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
-  <text x="1076" y="33" font-family="monospace" font-size="11" fill="#58A6FF" opacity="0.9">IoT · Web · ERP</text>
+
 
   <!-- MAIN NAME -->
   <text x="600" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="500"
@@ -128,24 +126,8 @@
   <line x1="640" y1="178" x2="820" y2="178" stroke="#1E3A5F" stroke-width="1.2"/>
 
   <!-- SUBTITLE -->
-  <text x="600" y="210" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400"
+  <text x="600" y="220" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400"
         fill="#8B949E" text-anchor="middle" letter-spacing="1.5">
-    Développeur Logiciel · IoT · Robotique · Systèmes Connectés
+    Développeur Logiciel · Passionné d'IoT, Robotique &amp; Systèmes Connectés
   </text>
-
-  <!-- Bottom pills -->
-  <rect x="390" y="230" width="90" height="22" rx="11" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
-  <text x="435" y="245" font-family="monospace" font-size="10" fill="#58A6FF" text-anchor="middle">🔌 Arduino</text>
-
-  <rect x="495" y="230" width="80" height="22" rx="11" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
-  <text x="535" y="245" font-family="monospace" font-size="10" fill="#79A1F5" text-anchor="middle">🤖 ROS 2</text>
-
-  <rect x="590" y="230" width="80" height="22" rx="11" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
-  <text x="630" y="245" font-family="monospace" font-size="10" fill="#58A6FF" text-anchor="middle">🌐 Flask</text>
-
-  <rect x="685" y="230" width="80" height="22" rx="11" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
-  <text x="725" y="245" font-family="monospace" font-size="10" fill="#79A1F5" text-anchor="middle">🏢 Odoo</text>
-
-  <rect x="780" y="230" width="90" height="22" rx="11" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
-  <text x="825" y="245" font-family="monospace" font-size="10" fill="#58A6FF" text-anchor="middle">📡 ESP32</text>
 </svg>
