@@ -155,8 +155,8 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 * **Fonctionnalités :** Activation automatique des pompes d'évacuation lors d'un seuil critique, stockage dans un réservoir dédié, et acheminement vers un circuit de filtrage physique pour une réutilisation domestique sécurisée par la famille.
 </p>
 
-- Capteurs de niveau d'eau
-- Matériel : Arduino, Raspberry Pi
+- Capteurs ultrason hc-sr04
+- Matériel : Arduino MEGA, Raspberry Pi
 - Automatisation complète via scripts embarqués
 
 [![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
