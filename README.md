@@ -211,15 +211,13 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-## Statistiques GitHub
+## 📊 Statistiques GitHub
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr&title_color=7F77DD&text_color=8b949e&icon_color=1D9E75&bg_color=161b22&border_radius=12&custom_title=Statistiques%20GitHub" />
-
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&locale=fr&title_color=7F77DD&text_color=8b949e&icon_color=1D9E75&bg_color=161b22&border_radius=12&custom_title=Statistiques%20GitHub" />
 &nbsp;&nbsp;
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=fr&title_color=7F77DD&text_color=8b949e&bg_color=161b22&border_radius=12&custom_title=Langages%20principaux" />
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&locale=fr&title_color=7F77DD&text_color=8b949e&bg_color=161b22&border_radius=12&custom_title=Langages%20principaux&exclude_repo=RASOLONDRAIBE360" />
 
 </div>
 
@@ -227,7 +225,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=RASOLONDRAIBE360&theme=tokyonight-duo&hide_border=true&locale=fr&background=161b22&ring=7F77DD&fire=1D9E75&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58&border_radius=12&date_format=j%20M%5B%20Y%5D" />
+<img width="70%" src="https://streak-stats.demolab.com?user=RASOLONDRAIBE360&theme=tokyonight-duo&hide_border=true&locale=fr&background=161b22&ring=7F77DD&fire=1D9E75&currStreakLabel=8b949e&sideLabels=8b949e&dates=484f58&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" />
 
 </div>
 
