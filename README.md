@@ -33,7 +33,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 ## Compétences techniques
 
 <details>
-<summary><b>🌐 Développement Web</b></summary>
+<summary><b> Développement Web</b></summary>
 <br>
 
 **Frontend**
@@ -57,7 +57,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 </details>
 
 <details>
-<summary><b>📱 Développement Mobile</b></summary>
+<summary><b> Développement Mobile</b></summary>
 <br>
 
 **Frontend**
@@ -71,7 +71,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 </details>
 
 <details>
-<summary><b>🔌 Internet des Objets (IoT)</b></summary>
+<summary><b> Internet des Objets (IoT)</b></summary>
 <br>
 
 **Matériel & Outils**
@@ -90,7 +90,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 </details>
 
 <details>
-<summary><b>🤖 Robotique</b></summary>
+<summary><b> Robotique</b></summary>
 <br>
 
 ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -99,7 +99,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 </details>
 
 <details>
-<summary><b>🏢 Mission actuelle — Stage ERP</b></summary>
+<summary><b> Mission actuelle — Stage ERP</b></summary>
 <br>
 
 **Écosystème**
@@ -155,9 +155,9 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 * **Fonctionnalités :** Activation automatique des pompes d'évacuation lors d'un seuil critique, stockage dans un réservoir dédié, et acheminement vers un circuit de filtrage physique pour une réutilisation domestique sécurisée par la famille.
 </p>
 
-- 📡 Capteurs de niveau d'eau
-- 🔧 Matériel : Arduino, Raspberry Pi
-- ⚙️ Automatisation complète via scripts embarqués
+- Capteurs de niveau d'eau
+- Matériel : Arduino, Raspberry Pi
+- Automatisation complète via scripts embarqués
 
 [![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
 
@@ -173,9 +173,9 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 * **Fonctionnalités :** Communication inter-nœuds, traitement d'images léger pour la détection spatiale d'objets, et exécution de scripts de mission ordonnés.
 </p>
 
-- 🤖 Plateforme : GoPiGo
-- 🧠 Framework : ROS 2
-- 🐍 Langage : Python
+- Plateforme : GoPiGo
+- Framework : ROS 2
+- Langage : Python
 
 [![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
 
@@ -191,9 +191,9 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 * **Fonctionnalités :** Génération d'identifiants uniques alphanumériques cryptographiques de 8 caractères, déclencheurs (triggers) dynamiques pour la validation d'étapes métiers, et routage de requêtes HTTP pour l'impression de justificatifs.
 </p>
 
-- 🖥️ Frontend : QWeb (XML)
-- 🐍 Backend : Python
-- 🗄️ BDD : PostgreSQL
+- Frontend : QWeb (XML)
+- Backend : Python
+- BDD : PostgreSQL
 
 [![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
 
@@ -237,7 +237,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-## 📬 Me contacter
+## Me contacter
 
 <div align="center">
 
