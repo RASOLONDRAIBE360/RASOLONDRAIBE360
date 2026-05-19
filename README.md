@@ -1,9 +1,7 @@
 # 
 
 <div align="center">
-  <h1>
-    <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=34&pause=1000&color=47D1C3&center=true&vCenter=true&width=750&lines=Bonjour%F0%9F%91%8B+!;Je+suis+RASOLONDRAIBE+Stevy+Bryan+Philippe" alt="Typing SVG Banner" />
-  </h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=32&pause=1000&color=47D1C3&center=true&vCenter=true&width=850&lines=+Bonjour+%F0%9F%91%8B+;+Je+suis+RASOLONDRAIBE+Stevy+Bryan+Philippe+" alt="Typing SVG Banner" />
   <p><strong>Développeur Logiciel | Passionné d'IoT, Robotique & Systèmes Connectés</strong></p>
 </div>
 
