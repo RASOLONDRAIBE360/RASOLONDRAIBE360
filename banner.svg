@@ -1,0 +1,151 @@
+<svg width="1200" height="280" viewBox="0 0 1200 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Gradient background -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0D1117;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#0F1B2D;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:1" />
+    </linearGradient>
+
+    <!-- Glow effect for accent line -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Soft glow for dots -->
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Text glow -->
+    <filter id="textGlow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Grid pattern -->
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1C2A3A" stroke-width="0.6"/>
+    </pattern>
+
+    <!-- Radial glow center -->
+    <radialGradient id="centerGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" style="stop-color:#1A3A5C;stop-opacity:0.5"/>
+      <stop offset="100%" style="stop-color:#0D1117;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="280" fill="url(#bgGrad)" rx="14"/>
+
+  <!-- Grid overlay -->
+  <rect width="1200" height="280" fill="url(#grid)" rx="14" opacity="0.6"/>
+
+  <!-- Center radial glow -->
+  <ellipse cx="600" cy="140" rx="500" ry="160" fill="url(#centerGlow)"/>
+
+  <!-- Decorative circuit lines LEFT -->
+  <line x1="20" y1="60" x2="120" y2="60" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="120" y1="60" x2="120" y2="100" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="120" y1="100" x2="180" y2="100" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="20" y1="180" x2="100" y2="180" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="100" y1="180" x2="100" y2="140" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="100" y1="140" x2="160" y2="140" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="40" y1="220" x2="140" y2="220" stroke="#1E3A5F" stroke-width="1"/>
+  <circle cx="120" cy="60" r="3" fill="#2D6A9F" filter="url(#softGlow)"/>
+  <circle cx="100" cy="180" r="3" fill="#2D6A9F" filter="url(#softGlow)"/>
+  <circle cx="20" cy="60" r="2" fill="#58A6FF" filter="url(#softGlow)"/>
+  <circle cx="140" cy="220" r="2" fill="#58A6FF" filter="url(#softGlow)"/>
+
+  <!-- Decorative circuit lines RIGHT -->
+  <line x1="1180" y1="60" x2="1080" y2="60" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="1080" y1="60" x2="1080" y2="100" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="1080" y1="100" x2="1020" y2="100" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="1180" y1="180" x2="1100" y2="180" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="1100" y1="180" x2="1100" y2="140" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="1100" y1="140" x2="1040" y2="140" stroke="#1E3A5F" stroke-width="1.2"/>
+  <line x1="1160" y1="220" x2="1060" y2="220" stroke="#1E3A5F" stroke-width="1"/>
+  <circle cx="1080" cy="60" r="3" fill="#2D6A9F" filter="url(#softGlow)"/>
+  <circle cx="1100" cy="180" r="3" fill="#2D6A9F" filter="url(#softGlow)"/>
+  <circle cx="1180" cy="60" r="2" fill="#58A6FF" filter="url(#softGlow)"/>
+  <circle cx="1060" cy="220" r="2" fill="#58A6FF" filter="url(#softGlow)"/>
+
+  <!-- Floating dots accent -->
+  <circle cx="300" cy="40" r="2" fill="#58A6FF" opacity="0.4"/>
+  <circle cx="450" cy="25" r="1.5" fill="#79A1F5" opacity="0.5"/>
+  <circle cx="750" cy="30" r="2" fill="#58A6FF" opacity="0.4"/>
+  <circle cx="900" cy="45" r="1.5" fill="#79A1F5" opacity="0.5"/>
+  <circle cx="350" cy="255" r="2" fill="#58A6FF" opacity="0.3"/>
+  <circle cx="850" cy="260" r="1.5" fill="#79A1F5" opacity="0.4"/>
+
+  <!-- TOP accent line -->
+  <rect x="0" y="0" width="1200" height="3" fill="#58A6FF" rx="2" opacity="0.7" filter="url(#glow)"/>
+
+  <!-- BOTTOM accent line -->
+  <rect x="0" y="277" width="1200" height="3" fill="#58A6FF" rx="2" opacity="0.5" filter="url(#glow)"/>
+
+  <!-- Left vertical accent -->
+  <rect x="0" y="0" width="3" height="280" fill="#58A6FF" rx="2" opacity="0.4"/>
+
+  <!-- Right vertical accent -->
+  <rect x="1197" y="0" width="3" height="280" fill="#58A6FF" rx="2" opacity="0.4"/>
+
+  <!-- Small tag top-left -->
+  <rect x="24" y="18" width="110" height="22" rx="4" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
+  <text x="34" y="33" font-family="monospace" font-size="11" fill="#58A6FF" opacity="0.9">&lt;developer/&gt;</text>
+
+  <!-- Small tag top-right -->
+  <rect x="1066" y="18" width="110" height="22" rx="4" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
+  <text x="1076" y="33" font-family="monospace" font-size="11" fill="#58A6FF" opacity="0.9">IoT · Web · ERP</text>
+
+  <!-- MAIN NAME -->
+  <text x="600" y="108" font-family="'Segoe UI', Arial, sans-serif" font-size="13" font-weight="500"
+        fill="#79A1F5" text-anchor="middle" letter-spacing="5" opacity="0.85">
+    RASOLONDRAIBE
+  </text>
+
+  <text x="600" y="160" font-family="'Segoe UI', Arial, sans-serif" font-size="38" font-weight="700"
+        fill="white" text-anchor="middle" letter-spacing="1" filter="url(#textGlow)">
+    Stevy Bryan Philippe
+  </text>
+
+  <!-- Separator line with dots -->
+  <line x1="380" y1="178" x2="560" y2="178" stroke="#1E3A5F" stroke-width="1.2"/>
+  <circle cx="380" cy="178" r="3" fill="#58A6FF" filter="url(#softGlow)"/>
+  <circle cx="600" cy="178" r="4" fill="#58A6FF" filter="url(#softGlow)"/>
+  <circle cx="820" cy="178" r="3" fill="#58A6FF" filter="url(#softGlow)"/>
+  <line x1="640" y1="178" x2="820" y2="178" stroke="#1E3A5F" stroke-width="1.2"/>
+
+  <!-- SUBTITLE -->
+  <text x="600" y="210" font-family="'Segoe UI', Arial, sans-serif" font-size="14" font-weight="400"
+        fill="#8B949E" text-anchor="middle" letter-spacing="1.5">
+    Développeur Logiciel · IoT · Robotique · Systèmes Connectés
+  </text>
+
+  <!-- Bottom pills -->
+  <rect x="390" y="230" width="90" height="22" rx="11" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
+  <text x="435" y="245" font-family="monospace" font-size="10" fill="#58A6FF" text-anchor="middle">🔌 Arduino</text>
+
+  <rect x="495" y="230" width="80" height="22" rx="11" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
+  <text x="535" y="245" font-family="monospace" font-size="10" fill="#79A1F5" text-anchor="middle">🤖 ROS 2</text>
+
+  <rect x="590" y="230" width="80" height="22" rx="11" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
+  <text x="630" y="245" font-family="monospace" font-size="10" fill="#58A6FF" text-anchor="middle">🌐 Flask</text>
+
+  <rect x="685" y="230" width="80" height="22" rx="11" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
+  <text x="725" y="245" font-family="monospace" font-size="10" fill="#79A1F5" text-anchor="middle">🏢 Odoo</text>
+
+  <rect x="780" y="230" width="90" height="22" rx="11" fill="#0D2137" stroke="#1E3A5F" stroke-width="1"/>
+  <text x="825" y="245" font-family="monospace" font-size="10" fill="#58A6FF" text-anchor="middle">📡 ESP32</text>
+</svg>
