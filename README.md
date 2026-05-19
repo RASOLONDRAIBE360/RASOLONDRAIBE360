@@ -194,7 +194,6 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-RASOLONDRAIBE360-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stevy_Bryan_Philippe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevybryanrasolondraibe@gmail.com)
 
