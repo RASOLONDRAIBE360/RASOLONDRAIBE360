@@ -16,13 +16,9 @@
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-58A6FF?style=flat-square&labelColor=0D1117" alt="Open to Opportunities"/>
 </div>
 
-<p align="center" style="color:#8B949E; letter-spacing:1.5px; font-size:14px;">
-  Développeur Logiciel · Passionné d'IoT, Robotique &amp; Systèmes Connectés
-</p>
-
 ---
 
-### 📖 À propos
+### Qui suis-je ?
 
 Étudiant en 3ème année d'Informatique Appliquée, je suis un développeur passionné par l'alliance entre le code et le monde réel. Mon objectif est de concevoir des solutions technologiques concrètes pour répondre à des besoins quotidiens.
 
@@ -34,10 +30,10 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 <details>
-<summary><b>🌐 Développement Web</b></summary>
+<summary><b> Développement Web</b></summary>
 <br>
 
 **Frontend**
@@ -61,7 +57,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 </details>
 
 <details>
-<summary><b>📱 Développement Mobile</b></summary>
+<summary><b> Développement Mobile</b></summary>
 <br>
 
 **Frontend**
@@ -75,7 +71,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 </details>
 
 <details>
-<summary><b>🔌 Internet des Objets (IoT)</b></summary>
+<summary><b> Internet des Objets (IoT)</b></summary>
 <br>
 
 **Matériel & Outils**
@@ -94,7 +90,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 </details>
 
 <details>
-<summary><b>🤖 Robotique</b></summary>
+<summary><b> Robotique</b></summary>
 <br>
 
 ![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
@@ -103,7 +99,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 </details>
 
 <details>
-<summary><b>🏢 Mission actuelle — Stage ERP</b></summary>
+<summary><b> Mission actuelle — Stage ERP</b></summary>
 <br>
 
 **Écosystème**
@@ -126,7 +122,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-## 🚀 Projets vedettes
+## Projets vedettes
 
 *Sélectionnez un projet pour afficher sa description technique et ses objectifs.*
 
@@ -140,10 +136,10 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 * **Fonctionnalités :** Collecte des données hydriques du sol, traitement des contraintes en base de données, et simulation des cycles d'irrigation à l'aide de composants LED physiques.
 </p>
 
-- 📡 Capteurs : DHT11, BH1750, Raindrop YL-83
-- 🔧 Matériel : Arduino MEGA, ESP32
-- 💻 Stack : Flask, Streamlit, MQTT, WebSocket, Telegram Bot
-- 🔐 Auth : JWT + Cookies
+- Capteurs : DHT11, BH1750, Raindrop YL-83
+- Matériel : Arduino MEGA, ESP32
+- Stack : Flask, Streamlit, MQTT, WebSocket, Telegram Bot
+- Auth : JWT + Cookies
 
 [![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
 
@@ -159,9 +155,9 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 * **Fonctionnalités :** Activation automatique des pompes d'évacuation lors d'un seuil critique, stockage dans un réservoir dédié, et acheminement vers un circuit de filtrage physique pour une réutilisation domestique sécurisée par la famille.
 </p>
 
-- 📡 Capteurs de niveau d'eau
-- 🔧 Matériel : Arduino, Raspberry Pi
-- ⚙️ Automatisation complète via scripts embarqués
+- Capteurs ultrason hc-sr04
+- Matériel : Arduino MEGA, Raspberry Pi
+- Automatisation complète via scripts embarqués
 
 [![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
 
@@ -177,9 +173,9 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 * **Fonctionnalités :** Communication inter-nœuds, traitement d'images léger pour la détection spatiale d'objets, et exécution de scripts de mission ordonnés.
 </p>
 
-- 🤖 Plateforme : GoPiGo
-- 🧠 Framework : ROS 2
-- 🐍 Langage : Python
+- Plateforme : GoPiGo
+- Framework : ROS 2
+- Langage : Python
 
 [![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
 
@@ -195,9 +191,9 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 * **Fonctionnalités :** Génération d'identifiants uniques alphanumériques cryptographiques de 8 caractères, déclencheurs (triggers) dynamiques pour la validation d'étapes métiers, et routage de requêtes HTTP pour l'impression de justificatifs.
 </p>
 
-- 🖥️ Frontend : QWeb (XML)
-- 🐍 Backend : Python
-- 🗄️ BDD : PostgreSQL
+- Frontend : QWeb (XML)
+- Backend : Python
+- BDD : PostgreSQL
 
 [![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
 
@@ -205,7 +201,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-### 🏆 Réalisations & Trophées
+## Réalisations & Trophées
 
 <div align="center">
 
@@ -215,25 +211,31 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-## 📊 Statistiques GitHub
+### Statistiques GitHub
 
 <div align="center">
-
-<img height="170px" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img height="170px" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F77DD&text_color=c9d1d9&icon_color=1D9E75&bg_color=161b22&border_radius=12" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=7F77DD&text_color=c9d1d9&bg_color=161b22&border_radius=12" alt="Top Langs" />
 </div>
+
+<br/>
 
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=RASOLONDRAIBE360&theme=tokyonight&hide_border=true)
-
+  <img width="70%" src="https://streak-stats.demolab.com?user=RASOLONDRAIBE360&theme=tokyonight-duo&hide_border=true&locale=fr&background=161b22&ring=7F77DD&fire=1D9E75&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </div>
+
+<br>
 
 ---
 
-## 📬 Me contacter
+<p align="center">
+  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
+</p>
+
+---
+
+## Me contacter
 
 <div align="center">
 
