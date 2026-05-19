@@ -214,14 +214,6 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 ### Statistiques GitHub
 
 <div align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&title_color=7F77DD&text_color=c9d1d9&icon_color=1D9E75&bg_color=161b22&border_radius=12" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&title_color=7F77DD&text_color=c9d1d9&bg_color=161b22&border_radius=12" alt="Top Langs" />
-</div>
-
-<br/>
-
-<div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=RASOLONDRAIBE360&theme=tokyonight-duo&hide_border=true&locale=fr&background=161b22&ring=7F77DD&fire=1D9E75&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
 </div>
 
