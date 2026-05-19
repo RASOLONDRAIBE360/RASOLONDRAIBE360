@@ -15,7 +15,7 @@ Très intéressé par l'Internet des Objets (IoT) et l'automatisation, j'ai eu l
 
 Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre de mon stage de fin de cycle, de travailler sur le développement et la personnalisation de modules ERP sur l'écosystème **Odoo**.
 
-*Explorez mes dépôts pour découvrir mes projets en Web, Mobile, IoT, Robotique et ERP !* 🚀
+*Explorez mes dépôts pour découvrir mes projets en Web, Mobile, IoT, Robotique et ERP !* 
 
 ---
 
