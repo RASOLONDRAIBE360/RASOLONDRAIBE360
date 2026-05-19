@@ -211,7 +211,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-### Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=RASOLONDRAIBE360&theme=tokyonight-duo&hide_border=true&locale=fr&background=161b22&ring=7F77DD&fire=1D9E75&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e&border_radius=12&date_format=j%20M%5B%20Y%5D&mode=weekly" alt="GitHub Streak" />
