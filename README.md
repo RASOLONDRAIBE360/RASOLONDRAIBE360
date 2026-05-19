@@ -136,10 +136,10 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 * **Fonctionnalités :** Collecte des données hydriques du sol, traitement des contraintes en base de données, et simulation des cycles d'irrigation à l'aide de composants LED physiques.
 </p>
 
-- 📡 Capteurs : DHT11, BH1750, Raindrop YL-83
-- 🔧 Matériel : Arduino MEGA, ESP32
-- 💻 Stack : Flask, Streamlit, MQTT, WebSocket, Telegram Bot
-- 🔐 Auth : JWT + Cookies
+- Capteurs : DHT11, BH1750, Raindrop YL-83
+- Matériel : Arduino MEGA, ESP32
+- Stack : Flask, Streamlit, MQTT, WebSocket, Telegram Bot
+- Auth : JWT + Cookies
 
 [![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
 
