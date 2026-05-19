@@ -18,7 +18,7 @@
 
 ---
 
-### 📖 À propos
+### Qui suis-je ?
 
 Étudiant en 3ème année d'Informatique Appliquée, je suis un développeur passionné par l'alliance entre le code et le monde réel. Mon objectif est de concevoir des solutions technologiques concrètes pour répondre à des besoins quotidiens.
 
@@ -30,7 +30,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-## 🛠️ Compétences techniques
+## Compétences techniques
 
 <details>
 <summary><b>🌐 Développement Web</b></summary>
@@ -122,7 +122,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-## 🚀 Projets vedettes
+## Projets vedettes
 
 *Sélectionnez un projet pour afficher sa description technique et ses objectifs.*
 
@@ -201,7 +201,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-### 🏆 Réalisations & Trophées
+### Réalisations & Trophées
 
 <div align="center">
 
@@ -211,7 +211,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-## 📊 Statistiques GitHub
+## Statistiques GitHub
 
 <div align="center">
 
@@ -229,9 +229,11 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-pacman.vercel.app/api/pacman?username=RASOLONDRAIBE360&theme=tokyonight" alt="Pacman Contributions" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
