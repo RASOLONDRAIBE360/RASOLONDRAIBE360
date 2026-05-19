@@ -113,11 +113,18 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ## 🚀 Projets vedettes
 
+*Sélectionnez un projet pour afficher sa description technique et ses objectifs.*
+
 <details>
 <summary><b>🌱 UrbanCultive — Système IoT de gestion de parcelles agricoles</b></summary>
 <br>
 
-> Système IoT intelligent pour surveiller et piloter des parcelles agricoles urbaines à distance.
+<p>
+  
+* **Description :** Plateforme de suivi environnemental et d'arrosage automatisé pour l'agriculture urbaine.
+* **Fonctionnalités :** Collecte des données hydriques du sol, traitement des contraintes en base de données, et simulation des cycles d'irrigation à l'aide de composants LED physiques.
+* **Technologies :** Streamlit (interface), Python, MySQL (phpMyAdmin), ESP32 / Arduino.
+</p>
 
 - 📡 Capteurs : DHT11, BH1750, Raindrop YL-83
 - 🔧 Matériel : Arduino MEGA, ESP32
@@ -132,7 +139,12 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 <summary><b>🌊 Système de surveillance des inondations & filtrage d'eau</b></summary>
 <br>
 
-> Système automatisé capable de détecter, évacuer, filtrer et stocker l'eau pour une réutilisation domestique.
+<p>
+
+* **Description :** Système autonome de détection préventive et de gestion des eaux de crue.
+* **Fonctionnalités :** Activation automatique des pompes d'évacuation lors d'un seuil critique, stockage dans un réservoir dédié, et acheminement vers un circuit de filtrage physique pour une réutilisation domestique sécurisée par la famille.
+* **Technologies :** Microcontrôleurs, capteurs de niveau d'eau, programmation en C.
+</p>
 
 - 📡 Capteurs de niveau d'eau
 - 🔧 Matériel : Arduino, Raspberry Pi
@@ -146,7 +158,12 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 <summary><b>🤖 Robotique — GoPiGo & ROS 2</b></summary>
 <br>
 
-> Développement et pilotage d'un robot autonome avec ROS 2 et GoPiGo.
+<p>
+  
+* **Description :** Développement de nœuds de navigation et de traitement de tâches pour un robot mobile.
+* **Fonctionnalités :** Communication inter-nœuds, traitement d'images léger pour la détection spatiale d'objets, et exécution de scripts de mission ordonnés.
+* **Technologies :** ROS 2, Python, OpenCV, plateforme matérielle GoPiGo.
+</p>
 
 - 🤖 Plateforme : GoPiGo
 - 🧠 Framework : ROS 2
@@ -160,7 +177,12 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 <summary><b>🏢 Extensions Odoo ERP — Stage</b></summary>
 <br>
 
-> Développement et personnalisation de modules ERP sur l'écosystème Odoo.
+<p>
+
+* **Description :** Module personnalisé de gestion de processus de réservation et de suivi client.
+* **Fonctionnalités :** Génération d'identifiants uniques alphanumériques cryptographiques de 8 caractères, déclencheurs (triggers) dynamiques pour la validation d'étapes métiers, et routage de requêtes HTTP pour l'impression de justificatifs.
+* **Technologies :** Odoo ORM, Python, QWeb XML, PostgreSQL.
+</p>
 
 - 🖥️ Frontend : QWeb (XML)
 - 🐍 Backend : Python
