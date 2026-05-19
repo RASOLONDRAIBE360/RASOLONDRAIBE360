@@ -219,9 +219,9 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<img height="170px" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="170px" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 </div>
 
