@@ -190,6 +190,14 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
+### 🏆 Réalisations & Trophées
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=RASOLONDRAIBE360&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophées GitHub" />
+</div>
+
+---
+
 ## 📊 Statistiques GitHub
 
 <div align="center">
