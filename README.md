@@ -215,15 +215,20 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 <div align="center">
 
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+<!-- Stats principales -->
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=fr&title_color=7F77DD&text_color=a0a0b0&icon_color=1D9E75&bg_color=0d1117" alt="Statistiques GitHub"/>
+
 &nbsp;&nbsp;
-<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<!-- Top langages -->
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&locale=fr&title_color=7F77DD&text_color=a0a0b0&bg_color=0d1117" alt="Langages principaux"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=RASOLONDRAIBE360&theme=tokyonight&hide_border=true)
+<!-- Série de contributions -->
+<img src="https://streak-stats.demolab.com?user=RASOLONDRAIBE360&theme=tokyonight&hide_border=true&locale=fr&dates=1D9E75&ring=7F77DD&fire=7F77DD&currStreakLabel=a0a0b0&sideLabels=a0a0b0&background=0d1117" alt="Séries de contributions"/>
 
 </div>
 
