@@ -1,9 +1,19 @@
 # 
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Righteous&weight=700&size=32&pause=1000&color=79A1F5&center=true&vCenter=true&width=850&lines=+Bonjour+%F0%9F%91%8B+;+Je+suis+RASOLONDRAIBE+Stevy+Bryan+Philippe+" alt="Typing SVG Banner" />
-  <p><strong>Développeur Logiciel | Passionné d'IoT, Robotique & Systèmes Connectés</strong></p>
+  <img src="./banner.svg" alt="Stevy Bryan Philippe — Developer Banner" width="100%"/>
 </div>
+<br/>
+<div align="center">
+  <a href="https://github.com/RASOLONDRAIBE360">
+    <img src="https://img.shields.io/github/followers/RASOLONDRAIBE360?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117&logo=github" alt="GitHub Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=RASOLONDRAIBE360&style=flat-square&color=58A6FF&labelColor=0D1117&label=Profile+Views" alt="Profile Views"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to-Opportunities-58A6FF?style=flat-square&labelColor=0D1117" alt="Open to Opportunities"/>
+</div>
+<br/>
 
 ---
 
@@ -193,7 +203,9 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 ### 🏆 Réalisations & Trophées
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RASOLONDRAIBE360&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophées GitHub" />
+
+  <img src="https://github-profile-trophy.vercel.app/?username=RASOLONDRAIBE360&theme=tokyonight&no-bg=true&no-frame=true&margin-w=12&margin-h=8&column=7" alt="Trophées GitHub"/>
+
 </div>
 
 ---
