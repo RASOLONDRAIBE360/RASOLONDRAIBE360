@@ -229,6 +229,14 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RASOLONDRAIBE360&theme=react-dark&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=79A1F5" width="100%"/>
+
+</div>
+
+---
+
 ## 📬 Me contacter
 
 <div align="center">
