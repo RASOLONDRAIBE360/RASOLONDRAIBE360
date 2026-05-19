@@ -113,10 +113,10 @@ Dans le cadre de mon stage de fin d'études, j'interviens de manière ciblée su
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_GITHUB&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub de Stevy" height="190px" />
+        <img src="https://github-readme-stats.vercel.app/api?username=TON_PSEUDO_REEL&show_icons=true&theme=tokyonight&count_private=true" alt="Statistiques GitHub de Stevy" height="190px" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_GITHUB&layout=compact&theme=tokyonight&hide_border=false" alt="Langages les plus utilisés" height="190px" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TON_PSEUDO_REEL&layout=compact&theme=tokyonight&hide_border=false" alt="Langages les plus utilisés" height="190px" />
       </td>
     </tr>
   </table>
