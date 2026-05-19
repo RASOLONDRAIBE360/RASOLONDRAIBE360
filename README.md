@@ -1,13 +1,12 @@
 # 
 
 <div align="center">
-  <img src="./banner.svg" alt="Stevy Bryan Philippe — Developer Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/RASOLONDRAIBE360/RASOLONDRAIBE360/main/banner.svg" alt="Stevy Bryan Philippe — Developer Banner" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-
   <a href="https://github.com/RASOLONDRAIBE360">
     <img src="https://img.shields.io/github/followers/RASOLONDRAIBE360?label=Followers&style=flat-square&color=58A6FF&labelColor=0D1117&logo=github" alt="GitHub Followers"/>
   </a>
@@ -15,10 +14,11 @@
   <img src="https://komarev.com/ghpvc/?username=RASOLONDRAIBE360&style=flat-square&color=58A6FF&labelColor=0D1117&label=Profile+Views" alt="Profile Views"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Open%20to-Opportunities-58A6FF?style=flat-square&labelColor=0D1117" alt="Open to Opportunities"/>
-
 </div>
 
-<br/>
+<p align="center" style="color:#8B949E; letter-spacing:1.5px; font-size:14px;">
+  Développeur Logiciel · Passionné d'IoT, Robotique &amp; Systèmes Connectés
+</p>
 
 ---
 
