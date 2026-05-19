@@ -201,7 +201,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 
 ---
 
-### Réalisations & Trophées
+## Réalisations & Trophées
 
 <div align="center">
 
