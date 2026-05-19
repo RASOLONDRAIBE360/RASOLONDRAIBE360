@@ -1,12 +1,217 @@
-<h1 align="center">👋 Salut, moi c'est RASOLONDRAIBE Stevy Bryan Philippe</h1>
-<h3 align="center">Etudiant en 3ème année d'informatique appliquée, actuellement à la recherche d'un stage dans le domaine de l'IoT - développement backend & interface connectée</h3>
+<!-- HEADER -->
+<div align="center">
 
-- 🌱 Dans le cadre de mon projet de fin d'études, je suis actuellement en cours de développement d'un système d'arrosage basé sur des capteurs environnementaux piloté via une interface connectée **Arduino, frontend(JavaScript, HTML, CSS, tailwind CSS) backend (php, Node.js, Express.js, websocket, MySQL)**
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Stevy+Bryan+Philippe;Full-Stack+%7C+IoT+%7C+Robotics+Developer;Building+real-world+tech+solutions." alt="Typing SVG" />
+</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/stevy-bryan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="stevy-bryan" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/RASOLONDRAIBE360">
+    <img src="https://img.shields.io/github/followers/RASOLONDRAIBE360?label=Follow&style=social" alt="GitHub Followers"/>
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=RASOLONDRAIBE360&style=flat&color=58A6FF&label=Profile+Views" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+</div>
+
+---
+
+## 👤 À propos de moi
+
+Étudiant en **3ème année d'Informatique Appliquée**, je suis un développeur passionné par l'alliance entre le code et le monde réel. Mon objectif est de concevoir des solutions technologiques concrètes pour répondre à des besoins quotidiens.
+
+Très intéressé par l'**Internet des Objets (IoT)** et l'**automatisation**, j'ai eu l'opportunité de développer des projets de gestion de parcelles urbaines : de l'arrosage automatique lié à des capteurs, jusqu'à un système de surveillance des inondations capable d'évacuer, filtrer et stocker l'eau pour une réutilisation domestique.
+
+Dans le cadre de mon **stage de fin de cycle**, je travaille actuellement sur le développement et la personnalisation de modules ERP sur l'écosystème **Odoo**.
+
+> Explorez mes dépôts pour découvrir mes projets en Web, Mobile, IoT, Robotique et ERP 🚀
+
+---
+
+## 🛠️ Compétences techniques
+
+<details>
+<summary><b>🌐 Développement Web</b></summary>
+<br>
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+**Backend**
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**Base de données**
+
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>📱 Développement Mobile</b></summary>
+<br>
+
+**Frontend**
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Backend**
+
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>🔌 Internet des Objets (IoT)</b></summary>
+<br>
+
+**Matériel & Outils**
+
+![Arduino](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-003366?style=for-the-badge&logo=espressif&logoColor=white)
+![Arduino MEGA](https://img.shields.io/badge/Arduino_MEGA-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Arduino UNO](https://img.shields.io/badge/Arduino_UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Multiplexeur](https://img.shields.io/badge/Multiplexeur-555555?style=for-the-badge&logoColor=white)
+
+**Langage**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🤖 Robotique</b></summary>
+<br>
+
+![ROS2](https://img.shields.io/badge/ROS_2-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![GoPiGo](https://img.shields.io/badge/GoPiGo-F7931E?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>🏢 Mission actuelle — Stage ERP</b></summary>
+<br>
+
+**Écosystème**
+
+![Odoo](https://img.shields.io/badge/Odoo_ERP-714B67?style=for-the-badge&logo=odoo&logoColor=white)
+
+**Frontend**
+
+![QWeb](https://img.shields.io/badge/QWeb_(XML)-E44D26?style=for-the-badge&logo=xml&logoColor=white)
+
+**Backend**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Base de données**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+---
+
+## 🚀 Projets vedettes
+
+<details>
+<summary><b>🌱 UrbanCultive — Système IoT de gestion de parcelles agricoles</b></summary>
+<br>
+
+> Système IoT intelligent pour surveiller et piloter des parcelles agricoles urbaines à distance.
+
+- 📡 Capteurs : DHT11, BH1750, Raindrop YL-83
+- 🔧 Matériel : Arduino MEGA, ESP32
+- 💻 Stack : Flask, Streamlit, MQTT, WebSocket, Telegram Bot
+- 🔐 Auth : JWT + Cookies
+
+[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+
+</details>
+
+<details>
+<summary><b>🌊 Système de surveillance des inondations & filtrage d'eau</b></summary>
+<br>
+
+> Système automatisé capable de détecter, évacuer, filtrer et stocker l'eau pour une réutilisation domestique.
+
+- 📡 Capteurs de niveau d'eau
+- 🔧 Matériel : Arduino, Raspberry Pi
+- ⚙️ Automatisation complète via scripts embarqués
+
+[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+
+</details>
+
+<details>
+<summary><b>🤖 Robotique — GoPiGo & ROS 2</b></summary>
+<br>
+
+> Développement et pilotage d'un robot autonome avec ROS 2 et GoPiGo.
+
+- 🤖 Plateforme : GoPiGo
+- 🧠 Framework : ROS 2
+- 🐍 Langage : Python
+
+[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+
+</details>
+
+<details>
+<summary><b>🏢 Extensions Odoo ERP — Stage</b></summary>
+<br>
+
+> Développement et personnalisation de modules ERP sur l'écosystème Odoo.
+
+- 🖥️ Frontend : QWeb (XML)
+- 🐍 Backend : Python
+- 🗄️ BDD : PostgreSQL
+
+[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+
+</details>
+
+---
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=RASOLONDRAIBE360&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+&nbsp;&nbsp;
+<img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RASOLONDRAIBE360&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://streak-stats.demolab.com?user=RASOLONDRAIBE360&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 📬 Me contacter
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-RASOLONDRAIBE360-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Stevy_Bryan_Philippe-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:stevybryanrasolondraibe@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>Conçu avec soin · Université des Mascareignes · 2026</sub>
+</div>
