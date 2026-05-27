@@ -141,7 +141,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 - Stack : Flask, Streamlit, MQTT, WebSocket, Telegram Bot
 - Auth : JWT + Cookies
 
-[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360/Urban_Cultive_PFE_2026)
 
 </details>
 
@@ -159,7 +159,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 - Matériel : Arduino MEGA, Raspberry Pi
 - Automatisation complète via scripts embarqués
 
-[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiki781227/Smart_City_Flood)
 
 </details>
 
@@ -195,7 +195,7 @@ Pour diversifier mes compétences, j'ai actuellement pour mission, dans le cadre
 - Backend : Python
 - BDD : PostgreSQL
 
-[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RASOLONDRAIBE360)
+[![Voir le dépôt](https://img.shields.io/badge/Voir_le_dépôt-58A6FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/thierrymoses/tinoboat)
 
 </details>
 
